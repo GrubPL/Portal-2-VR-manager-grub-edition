@@ -32,7 +32,7 @@ ECHO.
 ECHO 1 - Enable VR
 ECHO 2 - Disable VR
 ECHO 3 - Launch game
-echo 4 - Launch Game For VR (Its Experimental Because It Will Break Co-op, You will Need to enable the mod first)
+echo 4 - Launch Game For VR (Its Experimental Because It Will Break Co-op)
 ECHO 5 - Configure
 echo 6 - Exit
 ECHO.
@@ -70,6 +70,7 @@ echo Renaming openvr_api.dll.bak to openvr_api.dll
 move openvr_api.dll.bak openvr_api.dll
 cd ..
 cd %dlcfolder%
+echo Renaming pak01_dir.vpk.bak to pak01_dir.vpk
 move pak01_dir.vpk.bak pak01_dir.vpk
 cd ..
 cd bin
@@ -86,6 +87,7 @@ move openvr_api.dll openvr_api.dll.bak
 
 cd ..
 cd %dlcfolder%
+echo Renaming pak01_dir.vpk to pak01_dir.vpk.bak
 move pak01_dir.vpk pak01_dir.vpk.bak
 cd ..
 cd bin
