@@ -1,8 +1,9 @@
 # Portal 2 VR mod manager
 A batch script to enable/disable Portal 2 VR mod
 
-To report issues go to [Issues](https://github.com/Juliasmatius/Portal-2-VR-manager/issues). If you do not have a github account. Don't worry! Go fill out this [form](https://forms.gle/MX7MRurYKZTLDuSV9)
+To report issues go to [Issues](https://github.com/GrubPL/Portal-2-VR-manager-grub-edition/issues). If you do not have a github account. Sorry but i have no idea how to create that thing from the Orginal Branch
 
+If The orginal Creator wants me to take this down, i will comply with the request
 
 # Setup
 1. Download [Portal 2 VR mod](https://github.com/Gistix/portal2vr)
